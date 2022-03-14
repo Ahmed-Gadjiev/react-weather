@@ -1,0 +1,18 @@
+@import 'variabels';
+
+#region{
+    width: 50%;
+    height: 10vh;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $background-style;
+
+    h1{
+        @media (max-width: 1024px) {
+            font-size: 0.8em;
+        } 
+    }
+}

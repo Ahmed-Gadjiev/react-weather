@@ -1,0 +1,37 @@
+{
+    "coord": { "lon": 47.4588, "lat": 42.9947 },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 1.7,
+        "feels_like": -0.8,
+        "temp_min": 1.7,
+        "temp_max": 2.01,
+        "pressure": 1013,
+        "humidity": 93,
+        "sea_level": 1013,
+        "grnd_level": 1013
+    },
+    "visibility": 3483,
+    "wind": { "speed": 2.29, "deg": 10, "gust": 2.42 },
+    "clouds": { "all": 100 },
+    "dt": 1647013932,
+    "sys": {
+        "type": 2,
+        "id": 48810,
+        "country": "RU",
+        "sunrise": 1646968197,
+        "sunset": 1647010247
+    },
+    "timezone": 10800,
+    "id": 537508,
+    "name": "Kyakhulay",
+    "cod": 200
+}

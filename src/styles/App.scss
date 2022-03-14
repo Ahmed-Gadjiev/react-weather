@@ -1,0 +1,24 @@
+@import 'region';
+@import 'weather';
+@import 'indicators';
+@import 'variabels';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../assets/580f5ec32cd8f.jpg');
+    background-size: 100%;
+
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+    color: $font-color;
+}
+
+div {
+    border-radius: 1rem;
+}
